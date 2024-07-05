@@ -4,7 +4,7 @@ package io.andrewbarker.swaggerbuilder;
  * Hello world!
  *
  */
-public class App 
+public class SwaggerBuilderApplication
 {
     public static void main( String[] args )
     {
